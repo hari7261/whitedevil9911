@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii+there!+I+am+Himanshu+%2C+an+aspiring+software+developer.)](https://git.io/typing-svg)
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=26&pause=1000&width=650&lines=Hii+there!+I+am+Himanshu+%2C+an+aspiring+software+developer.)](https://git.io/typing-svg)<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitedevil9911&label=Profile%20views&color=0e75b6&style=flat" alt="whitedevil9911" /> </p>
 
